@@ -12,10 +12,7 @@ This project detects fraudulent credit card transactions using machine learning 
 - Scikit-Learn
 
 ## Machine Learning Model
-- Random Forest Classifier
-
-Dataset is too large to be stored in GitHub.
-Dataset Link:
+- Random Forest Classified
 
 ## Results
 - Accuracy: 100%
